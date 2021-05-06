@@ -1,10 +1,10 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '8d2d6621c1d945a794f64c9249608a40',
+  rootNotionPageId: '4167d1bd5154465ebd584f4d1295c586',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'dd3a1929f66e4305a51e76c664d0c6c5',
+  rootNotionSpaceId: '',
 
   // basic site info (required)
   name: '纵横山河万里',
